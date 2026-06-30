@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0077/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5g0077/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天皇太一神律避穢經
+  date: '2015-08-29 02:53:49.331797'
+  source:
+    repository: kanripo
+    path: KR5g0077
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0077_000-HFL.yaml, hash: 'sha256:44c7665d4cd460626bfa06d67b8b46cfaa6528b3ad5c51963637851567d036b4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0077_000-HFL.markers.yaml, hash: 'sha256:89eacae77c97d91c601a3d268f625e132455d0f8ec5f24bd582ea1aeec7694da'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0077_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 351
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:922620dde58b5c21608d88a363c7a95b9b14ecd17a1214bc7cd78e8af840231f

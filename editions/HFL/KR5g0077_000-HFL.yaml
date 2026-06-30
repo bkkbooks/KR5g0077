@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5g0077/HFL/v1/juan/0
+seq: 0
+front:
+  text: 天皇太一神律避穢經夫上界仙都以避神穢攝生治化以避人穢寳符行火以避天穢合藥鍊丹以避江河之穢飛符使鬼以避生産之穢固際禁法以忌日月之穢大穢之宗略而序之夫求仙隱遁伏鍊金丹總有三千七百二十道俱從此禁門而行之萬不失一夫十二穢皆道之所忌值此辰爲之永劫不成丹也黄帝幸中華丹穢辰年辰月辰日是子年子
+  hash: sha256:71ca9d2d7e3d856bfa20dc6ededddd4764f98139d71656e7793f02554720ee55
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5g0077_HFL_000-001a, image: hfl/1002/1002-080.png}
+body:
+  text: 月子日是十二辰倣此不可爲事造丹不成紫雲初成龍虎穢迅雷發日忌之不可成丹日月行道穢日月蝕日不可掛爐固際忌之天龍交會穢三月上辰日末下旬辰日不可爲丹忌之北斗眞行穢正月平旦斗指寅十二月可知又云北斗不見不可作丹忌之蒼天神龍交會穢天有赤雲及有龍形出者不可作藥封爐犯之如雲坼太歲在卯其神見申不可爲丹忌之府藏寳器穢古墓中無泉地婬女地産生室龍居地古湫地古城營古寺基古市古神祠古獄地古窑地此等處不可爲忌之天地流星穢古仙聖所居之處不可作丹忌之陰陽交會穢春丁卯夏甲午秋庚申冬壬癸作丹忌之玉女追遊穢每六丁日是不可作丹忌六丁女也有色穢日有朝霞作丹忌之天魔戰血穢石鼓鳴如地雷日忌之地神驚奔不安靜而後鳴七日不得作藥流入黄泉化飛盡矣右件忌穢無問大小金丹藥物切宜愼之又以丹華印印諸藥泥塗房室并物無令五辛産女雞犬入室愼之愼之天皇太一神律避穢經
+  hash: sha256:29a92c2254039e1fdb0880d0b9c9a9a9b8e2504fda15bab510f03b1beae6627c
+metadata:
+  title: 天皇太一神律避穢經
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-29 02:53:49.331797'
+  source:
+    repository: kanripo
+    path: KR5g0077/KR5g0077_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:44c7665d4cd460626bfa06d67b8b46cfaa6528b3ad5c51963637851567d036b4
